@@ -1,0 +1,4 @@
+follow_up_self_reported,locations,customers,observed,expected,pooled_o_e,min_loc_o_e,median_loc_o_e,max_loc_o_e,locations_o_e_gt_1
+none,35,4485,133,154.7630,0.8594,0.0000,0.7725,1.8834,12
+email,18,2620,93,91.0526,1.0214,0.2292,0.9281,1.6792,8
+phone,7,1011,54,34.1844,1.5797,0.9567,1.7999,1.8811,6

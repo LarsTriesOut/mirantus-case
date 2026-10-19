@@ -1,0 +1,4 @@
+dimension,segment,n,yes,share,ci_lo,ci_hi
+location_type,independent_optician,4346,2421,0.5571,0.5423,0.5718
+location_type,optician_chain,3354,1804,0.5379,0.5210,0.5547
+location_type,mobile_unit,416,161,0.3870,0.3415,0.4347
